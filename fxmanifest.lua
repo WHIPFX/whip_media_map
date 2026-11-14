@@ -5,6 +5,7 @@ name 'whip_media_map'
 author 'Whippy'
 description 'whip\'s map: the pause menu\'s 3D map, GTA\'s blip icons and the HUD radar\'s tiles.'
 version '1.0.0'
+whip_updates 'WHIPFX/whip_media_map'   -- whip_core checks this repository's releases for a newer version
 lua54 'yes'
 
 -- A MEDIA PACK: whip's pictures, videos and map live apart from whip_core, one pack per category, so a change to one
