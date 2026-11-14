@@ -25,10 +25,10 @@ whip_core's setup report says so: type `whipsetup` in the server console.
 
 ## License
 
-The map and pictures are made from Grand Theft Auto V and are Rockstar Games' material, used under the Cfx.re
-Creator Platform License Agreement. WHIP's licence doesn't cover them. The map's shapes in `map/` are GTA V's map
-traced by [Regynate](https://gist.github.com/Regynate/01a82731994e592cbe5d7e1c1b055d33), with no licence stated. The
-code (`fxmanifest.lua`, `server.lua`) is WHIP's, under the GNU LGPL 3.0 (whip_core's `LICENSE`). See `NOTICE.md`, and
-whip_core's `NOTICE.md` for the full notice.
+The map, its tiles and textures and the pictures are made from Grand Theft Auto V and belong to Rockstar Games: WHIP's
+licence doesn't cover them and gives no rights to them. The map's shapes in `map/` are GTA V's map traced by Regynate
+(gist.github.com/Regynate/01a82731994e592cbe5d7e1c1b055d33), with no licence stated. The code (`fxmanifest.lua`,
+`server.lua`, `.githooks/`) is WHIP's, under the GNU LGPL 3.0: see `COPYING.LESSER`, and `COPYING` for the GPL 3.0 it
+builds on. See `NOTICE.md`, and whip_core's `NOTICE.md` for the full notice.
 
 WHIP is not affiliated with, endorsed or sponsored by Rockstar Games or Take-Two Interactive.
